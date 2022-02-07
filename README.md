@@ -49,9 +49,6 @@ Algumas considerações e/ou regras de negócio:
 Ultilizar o seguinte serviço(ou outro da sua preferência) para Mockup dos dados -> https://mockaroo.com/
 
 
-Usar os componentes da blibioteca Element-ui (https://element.eleme.io/)
-
-
 No cadastro do Paciente deverá conter as seguintes informações:
 
 
